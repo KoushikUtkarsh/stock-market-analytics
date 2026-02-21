@@ -24,8 +24,15 @@ This project focuses on fetching and analyzing stock market data using the Alpha
 - Store data in SQL
 - Build dashboard visualization
 
-- @echo off
-git add .
-git commit -m "Auto update"
-git push
-pause
+##  Day 2 Progress
+
+- Cleaned stock data
+- Converted columns to numeric types
+- Calculated 20-day Moving Average (MA-20)
+- Visualized closing price
+- Plotted closing price with moving average
+
+## 📈 Concepts Learned
+- Rolling window calculation
+- Trend smoothing using Moving Average
+- Basic stock visualization using Matplotlib
