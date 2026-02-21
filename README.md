@@ -23,3 +23,9 @@ This project focuses on fetching and analyzing stock market data using the Alpha
 - Perform technical analysis
 - Store data in SQL
 - Build dashboard visualization
+
+- @echo off
+git add .
+git commit -m "Auto update"
+git push
+pause
